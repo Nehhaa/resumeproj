@@ -1,0 +1,93 @@
+html,body
+{
+height:100%;
+width:100%;
+}
+body
+{
+    background-color:#DEB76F;
+}
+.navbar-default, .navbar-default .navbar-nav>.active>a
+, .navbar-default .navbar-nav>.active>a:hover ,.navbar-default .navbar-brand
+{
+color:black;
+background-color:#DEB76F;
+border-color:black;
+}
+.navbar-header a
+{
+font-family:'aharoni';
+font-size:50px;
+font-weight:bold;
+position:relative;
+}
+.navbar-header a
+{
+color:black;
+}
+
+
+
+#intro
+{
+background:url(../../Beautiful-Yellow-Birds-06.jpg) fixed;
+height:100%;
+width:100%;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+position:relative;
+}
+.image p
+{
+color:black;
+position:absolute;
+bottom:50%;
+left:50%;
+font-weight:bold;
+font-size:20px;
+}
+
+
+.image h1
+{
+color:black;
+position:absolute;
+bottom:60%;
+left:50%;
+font-weight:bold;
+font-size:20px;
+}
+.image a
+{
+color:black;
+text-decoration:none;
+position:absolute;
+bottom:40%;
+left:50%;
+font-weight:bold;
+font-size:20px;
+}
+.container h1
+{ font-weight:bold;
+
+
+}
+
+.container p
+{text-align:center;
+
+font-size:20px;
+}
+
+.carous>new
+{
+   height:400px;
+    width:1000px;
+}
+
+.btn-default
+{
+    background-color: #DEB76F;
+}
